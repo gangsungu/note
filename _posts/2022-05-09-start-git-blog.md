@@ -1,6 +1,7 @@
 ---
 layout: post
-title: start-git-blog
+title: "첫포스트"
+date: "2022-05-09 23:45:00 +0900"
 ---
 
 올해 들어 다짐했던 개발 블로그 개설!
